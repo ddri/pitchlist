@@ -1,5 +1,5 @@
 # pitchlist
-A sequence of resources for people learning to pitch. Presented in a roughly chronological order to give some structured to approaching this journey.
+A sequence of resources for people learning to pitch. Presented in a roughly chronological order to give some structure to approaching this journey.
 
 
 ## Get the structure right
