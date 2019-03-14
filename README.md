@@ -4,7 +4,8 @@ A sequence of resources for people learning to pitch. Presented in a roughly chr
 
 ## Get the structure right
 
-- https://blog.ycombinator.com/intro-to-the-yc-seed-deck/
+- [Intro to the YC seed deck](https://blog.ycombinator.com/intro-to-the-yc-seed-deck/)
+- [Guy Kawasaki's 10 slide deck](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/)
 
 ## Plan what goes in it
 
