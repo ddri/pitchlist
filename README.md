@@ -15,7 +15,7 @@ A sequence of resources for people learning to pitch. Presented in a roughly chr
 
 - [How to design a better pitch deck](https://blog.ycombinator.com/how-to-design-a-better-pitch-deck/)
 
-## Learn to speak (and move) better
+## Learn how to present better
 
 - [Learn how to pitch with Anabelle Roberts](https://www.youtube.com/watch?v=yo1Zxg61eZw) and [earlier version](https://www.youtube.com/watch?v=Biukgbojxis) and [longer version](https://www.youtube.com/watch?v=QfOcVve3zQU).
 
