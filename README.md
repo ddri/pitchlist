@@ -23,6 +23,10 @@ A sequence of resources for people learning to pitch. Presented in a roughly chr
 
 - [Perfecting your pitch](https://www.garage.com/resources/perfecting-your-pitch/)
 
+## Now go back and fix up these errors
+
+- [Ten steps to fix your shitty pitch](https://about.crunchbase.com/blog/fix-your-shitty-pitch/) blog post and [no-holds-barred video](https://www.youtube.com/watch?v=R8Tpdpy6hdg).
+
 
 
 
