@@ -23,9 +23,15 @@ A sequence of resources for people learning to pitch. Presented in a roughly chr
 
 - [Perfecting your pitch](https://www.garage.com/resources/perfecting-your-pitch/)
 
-## Now go back and fix up these errors
+## Go pitch
+
+- Skip down to [read the tips section](https://www.forbes.com/sites/chancebarnett/2014/05/09/investor-pitch-deck-to-raise-money-for-startups/#44e3b5674427) of this otherwise sprawling piece. 
+
+## Now go back and fix these issues in your deck
 
 - [Ten steps to fix your shitty pitch](https://about.crunchbase.com/blog/fix-your-shitty-pitch/) blog post and [no-holds-barred video](https://www.youtube.com/watch?v=R8Tpdpy6hdg).
+
+----
 
 # Q&A 
 
