@@ -27,6 +27,17 @@ A sequence of resources for people learning to pitch. Presented in a roughly chr
 
 - [Ten steps to fix your shitty pitch](https://about.crunchbase.com/blog/fix-your-shitty-pitch/) blog post and [no-holds-barred video](https://www.youtube.com/watch?v=R8Tpdpy6hdg).
 
+# Q&A 
+
+Some questions you should be asking:
+
+- How much time will it take me to make my perfect deck? 
+- How will I know when it's good enough?
+- How "optimistic" should it be?
+- How much detail should I put into the deck (graphics versus facts)?
+- How much effort should I put into the design quality?
+- How often will I need to update the deck?
+- Should I just email the deck to people?
 
 
 
