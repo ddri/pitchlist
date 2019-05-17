@@ -1,5 +1,6 @@
-# pitchlist
-A sequence of resources for people learning to pitch. Presented in a roughly chronological order to give some structure to approaching this journey.
+# On the topic of startup pitches
+
+A sequence of resources for startup pitching. Collected for a lecture for the 2019 Startup Onramp cohort. Mostly resources or well articulated examples of ideas I found useful in my own journey learning to pitch, and then raising multuple rounds of venture funding (along with the distractions of pitch comps, tech events, demo days, etc). 
 
 
 ## Get the structure right
@@ -36,7 +37,7 @@ A sequence of resources for people learning to pitch. Presented in a roughly chr
 
 # Q&A 
 
-Some questions you should be asking:
+Some questions you should be asking in the Q&A section:
 
 - How much time will it take me to make my perfect deck? 
 - How will I know when it's good enough?
@@ -45,6 +46,11 @@ Some questions you should be asking:
 - How much effort should I put into the design quality?
 - How often will I need to update the deck?
 - Should I just email the deck to people?
+- Should I always pitch with the deck and a projector?
+- What's this whole "details in the appendix" trick I hear about?
 
+# Parting reminder
 
+Pitching doesn't really matter. Finding big problems to solve matters. Building the right solution matters. Shipping products to solve problems matters. Charging users to pay for solutions to problems matters. Revenue matters. 
 
+Pitching is a process that can support that. Don't confuse process for purpose.
