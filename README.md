@@ -11,7 +11,7 @@ A sequence of resources for startup pitching. Collected for a lecture for the 20
 ## Understand the context of what you're communicating
 
 - [Three Steps to an Amazing TEDx Talk](https://www.linkedin.com/pulse/three-steps-amazing-tedx-talk-david-beckett/)
-- [the myth of the perfect pitch deck](https://medium.com/m8-ventures/the-myth-of-perfect-pitch-deck-c7e2b3751d8c)
+- [The myth of the perfect pitch deck](https://medium.com/m8-ventures/the-myth-of-perfect-pitch-deck-c7e2b3751d8c)
 
 ## Make it look great 
 
