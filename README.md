@@ -7,9 +7,10 @@ A sequence of resources for people learning to pitch. Presented in a roughly chr
 - [Intro to the YC seed deck](https://blog.ycombinator.com/intro-to-the-yc-seed-deck/)
 - [Guy Kawasaki's 10 slide deck](https://guykawasaki.com/the-only-10-slides-you-need-in-your-pitch/)
 
-## Plan what goes in it
+## Understand the context of what you're communicating
 
 - [Three Steps to an Amazing TEDx Talk](https://www.linkedin.com/pulse/three-steps-amazing-tedx-talk-david-beckett/)
+- [the myth of the perfect pitch deck](https://medium.com/m8-ventures/the-myth-of-perfect-pitch-deck-c7e2b3751d8c)
 
 ## Make it look great 
 
@@ -23,7 +24,7 @@ A sequence of resources for people learning to pitch. Presented in a roughly chr
 
 - [Perfecting your pitch](https://www.garage.com/resources/perfecting-your-pitch/)
 
-## Go pitch
+## Go pitch it and pitch it and pitch it and...
 
 - Skip down to [read the tips section](https://www.forbes.com/sites/chancebarnett/2014/05/09/investor-pitch-deck-to-raise-money-for-startups/#44e3b5674427) of this otherwise sprawling piece. 
 
