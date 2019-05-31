@@ -24,6 +24,7 @@ A sequence of resources for startup pitching. Collected for a lecture for the 20
 ## Do it right on the day
 
 - [Perfecting your pitch](https://www.garage.com/resources/perfecting-your-pitch/)
+- [Guy Kawasaki giving tips to Stanford BSB](https://www.gsb.stanford.edu/insights/10-steps-perfect-your-startup-pitch)
 
 ## Go pitch it and pitch it and pitch it and...
 
